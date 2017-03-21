@@ -74,8 +74,6 @@ public class LoginActivity extends Activity {
 		            		startActivity(intent);
 		            		finish();
 							
-						}else {
-							Toast.makeText(getApplicationContext(), "用户名或密码错误，并检查网络是否连接", Toast.LENGTH_LONG).show();
 						}
 
 		            }
