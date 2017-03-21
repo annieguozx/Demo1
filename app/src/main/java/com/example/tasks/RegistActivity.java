@@ -61,8 +61,6 @@ public class RegistActivity extends Activity {
 
 						Toast.makeText(RegistActivity.this, "两次输入的密码不一致", Toast.LENGTH_LONG).show();
 
-						RegistPwd.setText("");
-						RegistPwd2.setText("");
 
 					} else {
 
@@ -95,8 +93,6 @@ public class RegistActivity extends Activity {
 							}
 						});
 					}
-				} else {
-					Toast.makeText(RegistActivity.this, "请将注册信息输入完整！", Toast.LENGTH_LONG).show();
 				}
 			}
 		});
