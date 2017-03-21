@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\annie\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okhttp\2.6.0-leancloud\7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930\okhttp-2.6.0-leancloud.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.6.0-leancloud_7e364dfe79e9f1163ae67b61a4660441789d8b06\classes.dex" />
+    </item>
+    <item
+        jar="D:\annie\2017_AS\class\Demo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3db5c4140ed3070ee4e0b242c7d3b98cdf7f71aa">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_353b9b90b9864ae88c56c65f17a3e3b491709825\classes.dex" />
+    </item>
+    <item
+        jar="D:\annie\2017_AS\class\Demo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_6bc61e4663f9416dfbf06149a87fde17229a319c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\annie\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okio\1.6.0-leancloud\7086c00a30a6de0ee3b963ec2c3702d37f1de11d\okio-1.6.0-leancloud.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0-leancloud_1f11ee97ddbdcfa81015a2ae3bdd958328b85de7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\annie\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\fastjson\1.1.39-leancloud\94d4ebd4acdaf01d7445435382eea2d2d38e7534\fastjson-1.1.39-leancloud.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.1.39-leancloud_1b78ef9580954a2261ccb28809e367136d4b32dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\annie\2017_AS\class\Demo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_dcc7213f0c44d935594977d6c9b62134d8dee970\classes.dex" />
+    </item>
+    <item
+        jar="D:\annie\2017_AS\class\Demo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d8ba53b3b8285b9b9d76fc87a7d258be9cbd3d2">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f1ae253cf00e630b1ff1b0a40821fdde7b025c9d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk_r24.0.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_f5e88b25be74858919de2029d4948e7c5dee8151\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\annie\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\avoscloud-sdk\v3.16.1\44e096c8dda87e143c7820d1c5096e61baabbd3d\avoscloud-sdk-v3.16.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44e096c8dda87e143c7820d1c5096e61baabbd3d">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\avoscloud-sdk-v3.16.1_e7299d4a3b7c9e7f01b5ac5432da94083229de1a\classes.dex" />
+    </item>
+    <item
+        jar="D:\annie\2017_AS\class\Demo1\app\build\intermediates\exploded-aar\cn.aigestudio.datepicker\DatePicker\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9b0eec23f47cbd7a3a9df8e6026f39522cabb8e">
+        <dex dex="D:\annie\2017_AS\class\Demo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.aigestudio.datepicker-DatePicker-2.2.0_3d21024c8a450a47718c0e34120f9ba218800413\classes.dex" />
+    </item>
+
+</items>
